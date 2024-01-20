@@ -1,0 +1,71 @@
+body {
+    margin: 0%;
+    background-color: black;
+}
+.navbar {
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    height: 100px;
+    
+}
+.navbar-right {
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    padding-right: 10px;
+}
+.navbar-left {
+    padding-left:5px;
+
+}
+.hlo {
+    height: 110px;
+    width: 200px;
+
+}
+.element-modify {
+    padding: 10px;
+    margin: 8px;
+    border: 2px solid black;
+    
+}
+.home {
+   display: flex;
+   flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 380px;
+}
+.home-left {
+    text-align: right;
+    width: 800px;
+    color: aliceblue;
+}
+h1 {
+    color: green;
+    font-weight: 500;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200px;
+}
+.size {
+    height: 350px;
+    padding-right: 50px;
+}
+.contant-info {
+    border: 2px solid green;
+    height: 150px;
+    width: 200px;
+   margin-left: 500px;
+   text-align: center;  
+}
+.info {
+    color: azure;
+}
+h2 {
+    color: green;
+}
